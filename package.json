@@ -3,7 +3,7 @@
   "private": true,
   "description": "Gatsby example site: image gallery",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Andrew Sullivan <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "next",
     "gatsby-link": "next",
